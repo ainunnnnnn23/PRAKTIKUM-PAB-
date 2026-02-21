@@ -57,6 +57,3 @@ Widget Flutter yang digunakan dalam aplikasi ini antara lain:
 - `Container`
 
 ---
-
-## 📌 Catatan
-Aplikasi ini dibuat untuk memenuhi tugas pembuatan aplikasi Flutter dengan menerapkan konsep CRUD dan navigasi multi halaman.
