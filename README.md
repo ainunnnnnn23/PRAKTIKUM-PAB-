@@ -29,9 +29,14 @@ Aplikasi Catatan Pengeluaran memiliki fitur sebagai berikut:
   Navigasi antar halaman menggunakan Navigator (HomePage dan FormPage).
 
 -  **Form Input 3 TextField**
-  - Judul Pengeluaran  
-  - Kategori  
-  - Nominal Pengeluaran  
+  - Judul Pengeluaran : Nama Tempat
+  - Kategori          : Tujuan
+  - Nominal Pengeluaran 
+
+-  Contoh:
+  - Kopiria
+  - Nongki
+  - 100.000
 
 ---
 
